@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package ape_semana4_soluciones;
+package ape_semanana4_soluciones;
 
 /**
  *
- * @author SALAI
+ * @author InnoVausuario
  */
-public class APE_Semana4_Soluciones {
+public class APE_Semanana4_Soluciones {
 
     /**
      * @param args the command line arguments
